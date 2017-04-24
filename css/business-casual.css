@@ -103,7 +103,8 @@ hr {
 }
 
 .toonbank {
-    height: 10%;
+    margin-top: 50px;
+    margin-bottom: 150px;
     transform: rotate(90deg);
 }
 
