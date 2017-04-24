@@ -108,6 +108,11 @@ hr {
     transform: rotate(90deg);
 }
 
+.employees {
+    transform: rotate(90deg);
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
 
 footer {
     background: #fff;
