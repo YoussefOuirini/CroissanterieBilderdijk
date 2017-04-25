@@ -4,6 +4,7 @@ $(document).ready(function(){
 		var price = +$(this).closest('.someprice').data('price');
 		var quantity = +$(this).val();
 		$('.total').text(price*quantity);
+
 	})
 })
 
